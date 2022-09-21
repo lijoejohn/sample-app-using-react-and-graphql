@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1660597535263" clover="3.2.0">
+  <project timestamp="1660597535264" name="All files">
+    <metrics statements="28" coveredstatements="17" conditionals="4" coveredconditionals="2" methods="5" coveredmethods="3" elements="37" coveredelements="22" complexity="0" loc="28" ncloc="28" packages="1" files="3" classes="3"/>
+    <file name="App.tsx" path="D:\code-base\take-home-tfl\ui\src\App.tsx">
+      <metrics statements="17" coveredstatements="17" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+      <line num="1" count="2" type="stmt"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="24" count="2" type="stmt"/>
+      <line num="25" count="5" type="stmt"/>
+      <line num="27" count="5" type="stmt"/>
+      <line num="32" count="5" type="stmt"/>
+      <line num="34" count="5" type="stmt"/>
+      <line num="35" count="2" type="stmt"/>
+      <line num="36" count="2" type="stmt"/>
+      <line num="37" count="2" type="stmt"/>
+      <line num="39" count="1" type="stmt"/>
+      <line num="41" count="5" type="stmt"/>
+      <line num="53" count="2" type="stmt"/>
+      <line num="72" count="2" type="stmt"/>
+    </file>
+    <file name="main.tsx" path="D:\code-base\take-home-tfl\ui\src\main.tsx">
+      <metrics statements="11" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <line num="2" count="0" type="stmt"/>
+      <line num="3" count="0" type="stmt"/>
+      <line num="4" count="0" type="stmt"/>
+      <line num="6" count="0" type="stmt"/>
+      <line num="7" count="0" type="stmt"/>
+      <line num="9" count="0" type="stmt"/>
+      <line num="13" count="0" type="stmt"/>
+      <line num="15" count="0" type="stmt"/>
+      <line num="17" count="0" type="stmt"/>
+      <line num="25" count="0" type="stmt"/>
+      <line num="31" count="0" type="stmt"/>
+    </file>
+    <file name="vite-env.d.ts" path="D:\code-base\take-home-tfl\ui\src\vite-env.d.ts">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+    </file>
+  </project>
+</coverage>

@@ -1,0 +1,27 @@
+@import 'node_modules/govuk-frontend/govuk/all';
+.demo-class {
+  color: $govuk-link-colour;
+}
+
+.block {
+  display: flex;
+  flex-wrap: wrap;
+}
+.item {
+  flex: 1;
+  padding: 1rem;
+  background-color: white;
+  cursor: pointer;
+  color: black;
+  border-radius: 1rem;
+  margin: 1rem;
+}
+.place-name {
+  padding: 0.5rem;
+}
+.left {
+  flex: 50%;
+}
+.right {
+  flex: 50%;
+}
